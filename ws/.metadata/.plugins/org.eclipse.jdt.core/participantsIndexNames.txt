@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/tree3/myPC/it/maven/ws/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/437233774.index
+/v/src/main/resources
